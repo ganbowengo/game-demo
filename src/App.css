@@ -1,5 +1,6 @@
 @import "~antd/dist/antd.css";
 @import "./assets/game.css";
+@import "./assets/nothing.css";
 
 .App {
   text-align: center;
